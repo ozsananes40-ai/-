@@ -19,3 +19,14 @@ response.json
 
 # Obsidian local workspace state
 .obsidian/workspace.json
+
+# LibreOffice / OpenOffice lock files (created while a doc is open)
+.~lock.*#
+~$*
+
+# Customer data — NOT for public repo
+# קבצי לקוחות אמיתיים: חוזים, הצעות מחיר, פרופילי חברה, כתובות בניינים, ח.פ., מחירים.
+# אם רוצים לעקוב אחריהם — לעבור לריפו פרטי. אל תעלו לריפו הציבורי הזה.
+בית ספר לניהול מבנים/
+הצעות מחיר דוגמא/
+Output/*.docx
