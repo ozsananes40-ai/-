@@ -12,3 +12,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Temp/scratch files
+.tmp/
+response.json
+
+# Obsidian local workspace state
+.obsidian/workspace.json
